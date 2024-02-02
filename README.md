@@ -39,8 +39,6 @@
 
 ###
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kresqle/Kresqle/output/snake.svg" alt="Snake animation" />
