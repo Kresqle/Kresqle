@@ -39,8 +39,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kresqle/Kresqle/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=@kresqle&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
 ###
